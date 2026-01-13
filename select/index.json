@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Way Less Sad",
+  "base_artist": "AJR",
+  "createdAt": "2026-01-13T20:31:07.822141Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Way Less Sad",
+      "artist": "AJR",
+      "has_synced": true,
+      "path": "select/01_Way_Less_Sad_AJR.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Way Less Sad",
+      "artist": "AJR",
+      "has_synced": true,
+      "path": "select/02_Way_Less_Sad_AJR.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Way Less Sad (Cash Cash Remix)",
+      "artist": "AJR feat. Cash Cash",
+      "has_synced": false,
+      "path": "select/03_Way_Less_Sad_(Cash_Cash_Remix)_AJR_feat._Cash_Cash.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Way Less Sad (Cash Cash Remix)",
+      "artist": "AJR",
+      "has_synced": false,
+      "path": "select/04_Way_Less_Sad_(Cash_Cash_Remix)_AJR.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "14.Way Less Sad",
+      "artist": "AJR",
+      "has_synced": true,
+      "path": "select/05_14.Way_Less_Sad_AJR.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Way Less Sad (Paused)",
+      "artist": "AJR",
+      "has_synced": true,
+      "path": "select/06_Way_Less_Sad_(Paused)_AJR.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Way Less Sad",
+      "artist": "AJR",
+      "has_synced": false,
+      "path": "select/pl_01_Way_Less_Sad_AJR.txt"
+    }
+  ]
+}
